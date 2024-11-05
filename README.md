@@ -17,4 +17,4 @@ To run the Quicksell board application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/adarsh30002/quicksell-board.git
+   git clone https://github.com/adarsh3002/Quicksell.git
