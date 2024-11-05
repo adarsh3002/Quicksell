@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
-import filterIcon from '../../Assets/Images/Display.svg';
-import downIcon from '../../Assets/Images/down.svg';
+import filterIcon from '../../Assets/Display.svg';
+import downIcon from '../../Assets/down.svg';
 
 import './Navbar.css';
 
