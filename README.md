@@ -1,4 +1,4 @@
-# [Quicksell Board]
+# [Quicksell Board](https://quicksell-neon.vercel.app/)
 
 This Quicksell Board application, built with React JS, interacts with the Quicksell API. It allows users to group tickets by status, user, or priority, and sort them by priority or title. The app also retains user settings even after a page reload.
 
